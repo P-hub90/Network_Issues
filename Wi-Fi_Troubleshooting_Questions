@@ -1,0 +1,13 @@
+
+
+# Wi-Fi Troubleshooting Questions
+
+1. What error message are you seeing when trying to connect to the network?
+2. Can you see the Wi-Fi network "Office_Network" listed on your laptop?
+3. Have you recently connected to this Wi-Fi network on this laptop?
+4. Have you tried rebooting your laptop or restarting the Wi-Fi adapter?
+5. Is your laptop able to connect to other Wi-Fi networks (e.g., personal Wi-Fi or public networks)?
+6. Is there any network-related software installed on your laptop (e.g., VPNs, firewalls)?
+7. Are there any issues with your laptop’s network drivers (e.g., out-of-date drivers)?
+8. Have you tried forgetting the Wi-Fi network and reconnecting to it?
+9. Is your laptop able to get an IP address from the router (Check for IP)?
