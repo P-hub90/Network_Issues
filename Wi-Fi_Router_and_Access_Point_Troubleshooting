@@ -1,0 +1,12 @@
+# Wi-Fi Router and Access Point Troubleshooting
+
+URLs: https://thewifispecialist.co.uk/blog/access-point-issues/
+      https://www.microcenter.com/tech_center/article/3864/basic-router-troubleshooting
+
+
+1. Power cycle the router by turning it off for 30 seconds, then turning it back on.
+2. Ensure the Wi-Fi network (SSID) is being broadcasted. You should be able to see the network name in your laptop's available networks list.
+3. Check the number of devices connected to the router. If the router is overloaded, try disconnecting some devices.
+4. Check for router firmware updates. Manufacturers often release updates that can fix issues.
+5. Verify router settings such as MAC address filtering, which could block new devices, or any DHCP issues.
+6. Make sure your Wi-Fi password is correct and has not been changed.
