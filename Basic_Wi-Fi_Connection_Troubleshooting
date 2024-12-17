@@ -1,0 +1,10 @@
+# Basic Wi-Fi Troubleshooting Steps
+
+URL: https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot
+
+1. Check if Wi-Fi is enabled on your laptop.
+2. Restart your laptop and router to reset any potential issues.
+3. Forget the network and reconnect to it by selecting "Forget" and choosing it again from the list of available networks.
+4. Make sure that the laptop is set to obtain an IP address automatically by checking the TCP/IP settings.
+5. Update your network adapter drivers to ensure they're not outdated.
+6. Run Windows Network Troubleshooter (Right-click on Wi-Fi icon > Troubleshoot problems).
